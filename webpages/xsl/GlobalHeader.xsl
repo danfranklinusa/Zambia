@@ -114,7 +114,7 @@
                                         <xsl:if test="$RESET_PASSWORD_SELF">
                                             <div class="control-group">
                                                 <div class="controls">
-                                                    <a href="ForgotPassword.php">New user or forgot your password</a>
+                                                    <a href="ForgotPassword.php">Forgot your password?</a>
                                                 </div>
                                             </div>
                                         </xsl:if>
